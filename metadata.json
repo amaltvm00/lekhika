@@ -1,0 +1,7 @@
+{
+  "name": "Audio Literature Platform",
+  "description": "An immersive audio literature platform for stories, audio series, and audiobooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
